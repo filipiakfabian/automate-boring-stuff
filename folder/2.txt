@@ -1,2 +1,3 @@
 siema 
 git push
+git remote add origin https://github.com/filipiakfabian/automate-boring-stuff.git
